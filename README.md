@@ -35,5 +35,3 @@ It allows users to explore, list, and book vacation rentals from around the worl
 
 ---
 
-## 🧩 Project Structure
-
