@@ -31,10 +31,7 @@ It allows users to explore, list, and book vacation rentals from around the worl
 | **Frontend** | React.js, React Router, Axios, Bootstrap / Tailwind CSS |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB (with Mongoose ORM) |
-| **Authentication** | JWT, bcrypt |
-| **Cloud Storage** | Cloudinary |
-| **Maps API** | Mapbox / Leaflet |
-| **Deployment** | Render / Vercel / Netlify (Frontend), Render / Railway (Backend) |
+| **Authentication** | passport |
 
 ---
 
